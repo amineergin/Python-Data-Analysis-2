@@ -1,4 +1,4 @@
-# Python-Data-Analysis-2
+# Python-Data-Analysis-Diabetes
 
 - 45 yaş ve üzeri olanhastaların Diabet Hastalık tahminini Random Forest, Decision Tree, Support Vector Machine, Naive Bayes, K-Nearest Neighbor, Logistic Regression ve Multi-Layer Perceptron algoritmalarını kullanarak yapar.
 - Her bir model için hiperparametre optimizasyonunu yapar.
